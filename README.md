@@ -4,6 +4,8 @@
 
 The project deals with the Airbnb data to reveal insights into it's customer experiences and satisfaction levels with the numerous listed stays. The project also includes gaining a deeper understanding of Airbnb's operations and draw meaningful insights from the data. 
 
+Furthermore, the insights were derived using the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework and developed a real-time monitoring dashboard to efficiently track & achieve all project objectives. This approach ensured a systematic & effective goal management throughout the project. The detailed analysis procedure, findings, and recommendations are documented in the PowerPoint presentation attached above for reference and review.
+
 ### Tools/Software:-Power BI and Microsoft PowerPoint
 
 ### Tasks/Objectives:-
