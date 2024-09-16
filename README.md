@@ -24,5 +24,18 @@ Furthermore, the insights were derived using the CRISP-DM (Cross-Industry Standa
 
 7) Crafting a Comprehensive City Insights Report: This objective entails the creation of a comprehensive report that presents listing prices, guest ratings, and visitor trends for multiple cities, with a particular focus on assessing changes in visitor trends in 2020 in contrast to earlier years.
 
-### Data Description/Data Dictionary:- The data dictionary has been provided as an Excel file above.
+### Recommendations to the Airbnb:-
 
+1) For least favorable locations, take more detailed review from customers and hosts.
+
+2) Prompt response by hosts while accepting the guest request, impacted the listings’ overall rating. Hence, Airbnb should communicate this findings to hosts, as if their ratings improved they can charge premium price.
+
+3) Customers can pay higher amount for stay if host identity, listings’ instant bookableness, listings’ overall rating are properly maintained. Hence, company should focus on improving visibility of these factors through its digital structure or platforms to potential customers.
+
+4) Check-in level, cleanliness, and host communication are adequately being maintained, hence company can leverage these factors to uniquely position itself in the market. (Positioning)
+
+5) 18.4% (51,330) properties are listed from more than 10 years, so a deep study should be carried out to further improve serviceability and profitability of these properties. 
+
+6) As the customer onboarding had been increasing post 2018, company should crease new segment and tap the unmet needs of the new customers (Market development & penetration). 
+
+### Data Description/Data Dictionary:- The data dictionary has been provided as an Excel file above.
