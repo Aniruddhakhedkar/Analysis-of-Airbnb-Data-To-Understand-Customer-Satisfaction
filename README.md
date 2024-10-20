@@ -32,7 +32,7 @@ Furthermore, the insights were derived using the CRISP-DM (Cross-Industry Standa
 
 3) Customers can pay higher amount for stay if host identity, listings’ instant bookableness, listings’ overall rating are properly maintained. Hence, company should focus on improving visibility of these factors through its digital structure or platforms to potential customers.
 
-4) Check-in level, cleanliness, and host communication are adequately being maintained, hence company can leverage these factors to uniquely position itself in the market. (Positioning)
+4) Check-in level, cleanliness, and host communication are adequately being maintained, hence company can leverage these factors to uniquely position itself in the market.(Positioning)
 
 5) 18.4% (51,330) properties are listed from more than 10 years, so a deep study should be carried out to further improve serviceability and profitability of these properties. 
 
